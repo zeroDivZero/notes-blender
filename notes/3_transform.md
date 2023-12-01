@@ -28,4 +28,4 @@ When transforming, can directly enter number after to specify desired value.
 
 ## Reset
 
-To reset transformation, hit **OPTION+G** (or **R** or **S**).
+To reset transformation, hit **Option + G** (or **R** or **S**).

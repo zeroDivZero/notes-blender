@@ -10,6 +10,8 @@ Render engine **EEVEE** is quick but not very accurate. **Cycles** (ray-tracing)
 
 **Material Preview** shading mode uses EEVEE for fast rendering.
 
+Turn on **Ambient Occlusion** and **Screen Space Reflections** for more realistic reflections.
+
 In camera view, to more easily position camera, hit **N** to bring up **View** menu and under **View Lock** check **Camera to View**:
 
 ![Camera to View](/assets/interface/camera-to-view.png)
